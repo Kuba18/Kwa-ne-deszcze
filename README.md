@@ -25,7 +25,7 @@ Folder z prezentacjami znajduje się tutaj: [Prezentacje](Prezentacje/)
 ---
 
 <details>
-  <summary><strong>📖 Instrukcja otwierania prezentacji</strong></summary><br>
+  <summary><strong> Instrukcja otwierania prezentacji</strong></summary><br>
 
   <p>
     Aby otworzyć plik prezentacji, należy kliknąć w odnośnik <strong>PowerPoint</strong> powyżej.<br><br>
