@@ -3,6 +3,7 @@
 Repozytorium do materiałów szkolnych.
 
 ---
+
 ## Spis treści
 
 - [Prezentacje PowerPoint](#powerpoint)
@@ -13,11 +14,11 @@ Repozytorium do materiałów szkolnych.
 
 ---
 
+### PowerPoint
+
 ## Jak otworzyć pliki PowerPoint
 
 ![PowerPoint Logo](images/powerpoint.png)
-
-### PowerPoint
 
 Folder z prezentacjami znajduje się tutaj: [Prezentacje](Prezentacje/)
 
@@ -51,11 +52,11 @@ Folder z prezentacjami znajduje się tutaj: [Prezentacje](Prezentacje/)
 
 ---
 
+### Pliki-txt
+
 ## Jak otworzyć pliki Tekstowe
 
 <img src="images/OIP.jpeg" alt="Pobieranie" width="100"/>
-
-### Pliki-txt
 
 Folder z plikami tekstowymi znajduje się tutaj: [Tekstowe](Tekstowe/)
 
@@ -79,12 +80,11 @@ Folder z plikami tekstowymi znajduje się tutaj: [Tekstowe](Tekstowe/)
 
 ---
 
+### Arkusze-Kalkulacyjne
+
 ## Jak otworzyć Arkusze Kalkulacyjne
 
-
 <img src="images/OIP (1).jpeg" alt="Pobieranie" width="100"/>
-
-### Arkusze-Kalkulacyjne
 
 Folder z Arkuszami Kalkulacyjnymi znajduje się tutaj: [Arkusze](Arkusze/)
 
@@ -108,11 +108,12 @@ Folder z Arkuszami Kalkulacyjnymi znajduje się tutaj: [Arkusze](Arkusze/)
 </details>
 
 ---
+
+### PDF
+
 ## Jak otworzyć Pliki PDF
 
 <img src="images/format-ikony-pliku-pdf-ikona-dokumentu-wektorowego-przycisku-obrazu-pobierania-233114800.webp" alt="Pobieranie" width="100"/>
-
-### PDF
 
 Folder z PDF-ami znajduje się tutaj: [PDF](PDF/)
 
@@ -136,11 +137,11 @@ Folder z PDF-ami znajduje się tutaj: [PDF](PDF/)
 
 ---
 
+### Obrazy
+
 ## Jak otworzyć Pliki Graficzne
 
 ![PowerPoint Logo](images/OIP.webp)
-
-### Obrazy
 
 Folder z plikami: [Grafika](Grafika/)
 
