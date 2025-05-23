@@ -58,6 +58,7 @@ Folder z prezentacjami znajduje się tutaj: [Prezentacje](Prezentacje/)
 ### Pliki-txt
 
 Folder z plikami tekstowymi znajduje się tutaj: [Tekstowe](Tekstowe/)
+
 ---
 <details>
   <summary><strong>Jak otworzyć pliki tekstowe</strong></summary>
@@ -112,6 +113,7 @@ Folder z Arkuszami Kalkulacyjnymi znajduje się tutaj: [Arkusze](Arkusze/)
 ### PDF
 
 Folder z PDF-ami znajduje się tutaj: [PDF](PDF/)
+
 ---
 <details>
   <summary><strong>Jak otworzyć pliki PDF</strong></summary>
@@ -156,5 +158,5 @@ Folder z plikami: [Grafika](Grafika/)
   <img src="images/obrazek-podglad.png" alt="Podgląd obrazu" width="100%"/>
 
 </details>
+
 ---
-.
