@@ -8,6 +8,7 @@ Repozytorium do plików szkolnych
 
 
   
-# Jak otworzyć pliki PowerPoint <img src="images/screen.png" alt="powerpoint" width="500"/>
+# Jak otworzyć pliki PowerPoint 
+![Logo](images/powerpoint.png)
 ## PowerPoint
 Aby otworzyć plik PowerPoint nalerzy odnaleść w głuwnym pliku projektu odpowiedni plik kliknąć na niego aby otworzyć i 
