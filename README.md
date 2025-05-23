@@ -85,8 +85,10 @@ Folder z plikami tekstowymi znajduje się tutaj: [Tekstowe](Tekstowe/)
 <img src="images/OIP (1).jpeg" alt="Pobieranie" width="100"/>
 
 ### Arkusze-Kalkulacyjne
----
+
 Folder z Arkuszami Kalkulacyjnymi znajduje się tutaj: [Arkusze](Arkusze/)
+
+---
 
 <details>
   <summary><strong>Jak otworzyć arkusze kalkulacyjne</strong></summary>
