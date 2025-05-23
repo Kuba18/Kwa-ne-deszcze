@@ -141,6 +141,7 @@ Folder z PDF-ami znajduje się tutaj: [PDF](PDF/)
 ### Obrazy
 
 Folder z plikami: [Grafika](Grafika/)
+
 ---
 <details>
   <summary><strong>Jak otworzyć pliki graficzne</strong></summary>
