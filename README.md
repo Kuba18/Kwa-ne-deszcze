@@ -25,30 +25,30 @@ Folder z prezentacjami znajduje się tutaj: [Prezentacje](Prezentacje/)
 ---
 
 <details>
-  <summary><strong>📖 Instrukcja otwierania prezentacji</strong></summary><br>
+  <summary>Kliknij, aby zobaczyć instrukcję</summary>
 
-  <p>
-    Aby otworzyć plik prezentacji, należy kliknąć w odnośnik <strong>PowerPoint</strong> powyżej.<br><br>
-    <img src="images/Zrzut ekranu 2025-05-23 184155.png" alt="Zrzut ekranu" width="500"/><br><br>
+  Aby otworzyć plik prezentacji, należy kliknąć w odnośnik <strong>PowerPoint</strong> powyżej.<br><br>
+  <img src="images/Zrzut ekranu 2025-05-23 184155.png" alt="Zrzut ekranu" width="500"/><br><br>
 
-    Następnie wybierz interesującą Cię prezentację z listy plików:<br><br>
-    <img src="images/Zrzut ekranu 2025-05-23 184516.png" alt="Zrzut ekranu" width="100%"/><br><br>
+  Następnie wybierz interesującą Cię prezentację z listy plików:<br><br>
+  <img src="images/Zrzut ekranu 2025-05-23 184516.png" alt="Zrzut ekranu" width="100%"/><br><br>
 
-    Kliknij w przycisk <strong>View raw</strong>, aby otworzyć prezentację bezpośrednio w przeglądarce.<br><br>
+  Kliknij w przycisk <strong>View raw</strong>, aby otworzyć prezentację bezpośrednio w przeglądarce.<br><br>
 
-    <div>
-      <span style="display: inline-block; vertical-align: top; width: 65%;">
-        <p><strong>Możesz również pobrać plik, klikając ikonę pobierania:</strong></p>
-      </span>
-      <span style="display: inline-block; width: 30%;">
-        <img src="images/Zrzut ekranu 2025-05-23 190830.png" alt="Pobieranie" width="30"/>
-      </span>
-    </div><br><br>
+  <div>
+    <span style="display: inline-block; vertical-align: top; width: 65%;">
+      <p><strong>Możesz również pobrać plik, klikając ikonę pobierania:</strong></p>
+    </span>
+    <span style="display: inline-block; width: 30%;">
+      <img src="images/Zrzut ekranu 2025-05-23 190830.png" alt="Pobieranie" width="30"/>
+    </span>
+  </div><br><br>
 
-    Po otwarciu prezentacji możesz przechodzić między slajdami za pomocą strzałek <strong>lewo/prawo</strong>:<br><br>
-    <img src="images/Zrzut ekranu 2025-05-23 184647.png" alt="Zrzut ekranu" width="100%"/>
-  </p>
+  Po otwarciu prezentacji możesz przechodzić między slajdami za pomocą strzałek <strong>lewo/prawo</strong>:<br><br>
+  <img src="images/Zrzut ekranu 2025-05-23 184647.png" alt="Zrzut ekranu" width="100%"/>
+
 </details>
+
 
 ---
 
