@@ -18,7 +18,7 @@ Repozytorium do materiałów szkolnych.
 
 ## Jak otworzyć pliki PowerPoint
 
-![PowerPoint Logo](images/powerpoint.png)
+![PowerPoint Logo](Ignore/images/powerpoint.png)
 
 Folder z prezentacjami znajduje się tutaj: [Prezentacje](Prezentacje/)
 
@@ -28,10 +28,10 @@ Folder z prezentacjami znajduje się tutaj: [Prezentacje](Prezentacje/)
   <summary>Kliknij, aby zobaczyć instrukcję</summary>
 
   Aby otworzyć plik prezentacji, należy kliknąć w odnośnik <strong>PowerPoint</strong> powyżej.<br><br>
-  <img src="images/Zrzut ekranu 2025-05-23 184155.png" alt="Zrzut ekranu" width="500"/><br><br>
+  <img src="Ignore/images/Zrzut ekranu 2025-05-23 184155.png" alt="Zrzut ekranu" width="500"/><br><br>
 
   Następnie wybierz interesującą Cię prezentację z listy plików:<br><br>
-  <img src="images/Zrzut ekranu 2025-05-23 184516.png" alt="Zrzut ekranu" width="100%"/><br><br>
+  <img src="Ignore/images/Zrzut ekranu 2025-05-23 184516.png" alt="Zrzut ekranu" width="100%"/><br><br>
 
   Kliknij w przycisk <strong>View raw</strong>, aby otworzyć prezentację bezpośrednio w przeglądarce.<br><br>
 
@@ -40,12 +40,12 @@ Folder z prezentacjami znajduje się tutaj: [Prezentacje](Prezentacje/)
       <p><strong>Możesz również pobrać plik, klikając ikonę pobierania:</strong></p>
     </span>
     <span style="display: inline-block; width: 30%;">
-      <img src="images/Zrzut ekranu 2025-05-23 190830.png" alt="Pobieranie" width="30"/>
+      <img src="Ignore/images/Zrzut ekranu 2025-05-23 190830.png" alt="Pobieranie" width="30"/>
     </span>
   </div><br><br>
 
   Po otwarciu prezentacji możesz przechodzić między slajdami za pomocą strzałek <strong>lewo/prawo</strong>:<br><br>
-  <img src="images/Zrzut ekranu 2025-05-23 184647.png" alt="Zrzut ekranu" width="100%"/>
+  <img src="Ignore/images/Zrzut ekranu 2025-05-23 184647.png" alt="Zrzut ekranu" width="100%"/>
 
 </details>
 
@@ -56,7 +56,7 @@ Folder z prezentacjami znajduje się tutaj: [Prezentacje](Prezentacje/)
 
 ## Jak otworzyć pliki Tekstowe
 
-<img src="images/OIP.jpeg" alt="Pobieranie" width="100"/>
+<img src="Ignore/images/OIP.jpeg" alt="Pobieranie" width="100"/>
 
 Folder z plikami tekstowymi znajduje się tutaj: [Tekstowe](Tekstowe/)
 
@@ -74,7 +74,7 @@ Folder z plikami tekstowymi znajduje się tutaj: [Tekstowe](Tekstowe/)
     GitHub wyświetli podgląd dokumentu bezpośrednio w przeglądarce.
   </p>
 
-  <img src="images/docx-podglad.png" alt="Podgląd pliku tekstowego" width="100%"/>
+  <img src="Ignore/images/docx-podglad.png" alt="Podgląd pliku tekstowego" width="100%"/>
 
 </details>
 
@@ -84,7 +84,7 @@ Folder z plikami tekstowymi znajduje się tutaj: [Tekstowe](Tekstowe/)
 
 ## Jak otworzyć Arkusze Kalkulacyjne
 
-<img src="images/OIP (1).jpeg" alt="Pobieranie" width="100"/>
+<img src="Ignore/images/OIP (1).jpeg" alt="Pobieranie" width="100"/>
 
 Folder z Arkuszami Kalkulacyjnymi znajduje się tutaj: [Arkusze](Arkusze/)
 
@@ -97,13 +97,13 @@ Folder z Arkuszami Kalkulacyjnymi znajduje się tutaj: [Arkusze](Arkusze/)
     Kliknij nazwę arkusza kalkulacyjnego (np. XLSX, ODS), aby zobaczyć jego zawartość.
   </p>
 
-  <img src="images/xlsx-kliknij.png" alt="Kliknij arkusz kalkulacyjny" width="600"/>
+  <img src="Ignore/images/xlsx-kliknij.png" alt="Kliknij arkusz kalkulacyjny" width="600"/>
 
   <p>
     GitHub wyświetli zawartość arkusza bezpośrednio w przeglądarce.
   </p>
 
-  <img src="images/xlsx-podglad.png" alt="Podgląd arkusza kalkulacyjnego" width="100%"/>
+  <img src="Ignore/images/xlsx-podglad.png" alt="Podgląd arkusza kalkulacyjnego" width="100%"/>
 
 </details>
 
@@ -113,7 +113,7 @@ Folder z Arkuszami Kalkulacyjnymi znajduje się tutaj: [Arkusze](Arkusze/)
 
 ## Jak otworzyć Pliki PDF
 
-<img src="images/format-ikony-pliku-pdf-ikona-dokumentu-wektorowego-przycisku-obrazu-pobierania-233114800.webp" alt="Pobieranie" width="100"/>
+<img src="Ignore/images/format-ikony-pliku-pdf-ikona-dokumentu-wektorowego-przycisku-obrazu-pobierania-233114800.webp" alt="Pobieranie" width="100"/>
 
 Folder z PDF-ami znajduje się tutaj: [PDF](PDF/)
 
@@ -125,7 +125,7 @@ Folder z PDF-ami znajduje się tutaj: [PDF](PDF/)
     Kliknij nazwę pliku PDF, aby otworzyć go bezpośrednio w przeglądarce.
   </p>
 
-  <img src="images/pdf-kliknij.png" alt="Kliknij PDF" width="600"/>
+  <img src="Ignore/images/pdf-kliknij.png" alt="Kliknij PDF" width="600"/>
 
   <p>
     Plik PDF otworzy się automatycznie w przeglądarce.
@@ -141,7 +141,7 @@ Folder z PDF-ami znajduje się tutaj: [PDF](PDF/)
 
 ## Jak otworzyć Pliki Graficzne
 
-![PowerPoint Logo](images/OIP.webp)
+![PowerPoint Logo](Ignore/images/OIP.webp)
 
 Folder z plikami: [Grafika](Grafika/)
 
